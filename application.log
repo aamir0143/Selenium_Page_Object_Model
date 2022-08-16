@@ -1,0 +1,325 @@
+2022-08-12 18:15:07 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:15:33 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:17:22 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:19:42 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:21:19 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:23:13 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 18:23:37 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 19:14:18 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 19:14:24 INFO  LoginPageTest:63 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 19:14:24 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 19:14:31 INFO  LoginPageTest:63 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 19:14:31 INFO  LoginPageTest:29 - *** Starting test cases execution  ****
+  2022-08-12 19:14:38 INFO  LoginPageTest:63 - login successful with username: jayshah11@gmail.com
+  2022-08-12 19:54:42 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 19:56:52 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-12 19:57:47 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 19:57:47 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 19:59:24 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 20:11:13 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 20:11:19 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 20:11:19 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 20:11:26 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 20:11:26 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 20:11:31 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-12 20:44:18 INFO  LoginPageTest:31 - *** Starting test cases execution  ****
+  2022-08-12 20:44:20 INFO  LoginPageTest:31 - *** Starting test cases execution  ****
+  2022-08-12 20:44:22 INFO  LoginPageTest:31 - *** Starting test cases execution  ****
+  2022-08-12 21:43:52 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:20 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:24 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:27 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:31 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:37 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 21:44:37 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:44:49 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 21:44:49 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:45:00 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-12 21:52:07 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:52:14 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 21:52:14 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:52:24 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 21:52:24 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 21:52:36 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-12 21:53:20 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:53:29 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:54:13 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:54:21 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:55:41 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:56:13 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:56:23 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 21:57:27 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-12 22:17:41 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 22:17:49 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 22:17:49 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 22:17:57 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 22:17:57 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 22:18:06 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-12 22:26:49 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:27:28 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:44:06 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:44:49 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:45:59 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:48:25 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 22:49:55 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-12 23:12:25 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:12:32 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 23:12:32 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:12:39 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 23:12:39 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:12:47 INFO  LoginPageTest:68 - login successful with username: mdaamirreza00@gmail.com
+  2022-08-12 23:15:00 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:15:14 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-12 23:15:14 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:15:29 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-12 23:15:29 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-12 23:15:40 INFO  LoginPageTest:68 - login successful with username: mdaamirreza00@gmail.com
+  2022-08-13 15:06:50 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:06:58 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-13 15:06:58 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:07:04 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.comkumar0143
+  2022-08-13 15:07:04 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:07:10 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-13 15:13:02 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:13:09 INFO  LoginPageTest:68 - login successful with username: mdaamirreza00@gmail.comaamir0143
+  2022-08-13 15:13:09 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:13:15 INFO  LoginPageTest:68 - login successful with username: mdrehan854330@gmail.comrehan854330
+  2022-08-13 15:13:15 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:13:22 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-13 15:23:37 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:23:46 INFO  LoginPageTest:68 - login successful with username: ajaylad112211@gmail.com
+  2022-08-13 15:23:46 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:23:52 INFO  LoginPageTest:68 - login successful with username: ajay1@gmail.com
+  2022-08-13 15:23:52 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 15:23:58 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-13 19:13:06 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 19:13:12 INFO  LoginPageTest:68 - login successful with username: ahsankumar22@gmail.com
+  2022-08-13 19:13:12 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 19:13:18 INFO  LoginPageTest:68 - login successful with username: aamirreza156@gmail.com
+  2022-08-13 19:13:18 INFO  LoginPageTest:34 - *** Starting test cases execution  ****
+  2022-08-13 19:13:23 INFO  LoginPageTest:68 - login successful with username: jayshah11@gmail.com
+  2022-08-14 17:09:09 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 17:09:15 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-14 17:09:15 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 17:09:20 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-14 17:09:20 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 17:09:25 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-14 20:38:32 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:38:40 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-14 20:38:40 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:38:46 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-14 20:38:46 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:38:52 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-14 20:41:05 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:41:13 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-14 20:41:13 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:41:19 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-14 20:41:19 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-14 20:41:25 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-15 00:46:25 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:32 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:35 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:39 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:45 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-15 00:46:46 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:52 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-15 00:46:52 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 00:46:58 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-15 00:47:54 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:48:09 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:49:43 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:50:07 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:52:10 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:52:37 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:53:34 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:53:45 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:54:26 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:54:36 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:59:00 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 00:59:08 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:03:18 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:03:36 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:04:48 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:05:08 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:05:22 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:05:41 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:05:49 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:06:40 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:07:12 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:08:55 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:09:16 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:09:43 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:09:50 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:10:56 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:11:04 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:11:33 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:13:21 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:15:20 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:16:06 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:17:08 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:17:30 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:17:58 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:18:10 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:18:35 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 01:18:44 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:13:05 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:18:42 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:19:01 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:19:27 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:19:54 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:20:17 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:20:36 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:21:01 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:21:34 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:21:51 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:22:18 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:22:48 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:23:23 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:23:43 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:24:27 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:24:48 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:25:41 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:25:55 INFO  HomePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:26:22 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:26:33 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:27:42 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:27:51 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 11:28:20 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-15 11:37:22 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 11:38:16 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 11:44:57 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 12:07:33 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 12:08:07 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 12:08:43 INFO  HomePageTest:27 - *** Starting test cases execution  ****
+  2022-08-15 12:25:04 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 12:25:37 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 12:26:03 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 12:31:28 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 12:31:58 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 12:33:28 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 13:44:45 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-15 16:07:26 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:09:29 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:09:42 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:12:08 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:12:21 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:12:49 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 16:12:58 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 16:16:32 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-15 16:16:38 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 16:16:48 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-15 16:17:11 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:21 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:27 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:32 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:42 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-15 16:17:42 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:49 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-15 16:17:49 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-15 16:17:58 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-15 16:17:58 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-15 16:18:14 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 07:21:11 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 07:21:44 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:27:38 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 14:27:45 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:27:53 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:28:04 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:10 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:16 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:22 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:32 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 14:28:32 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:38 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 14:28:38 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:28:44 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 14:28:45 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:28:52 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:31:48 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 14:31:53 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:32:00 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:32:09 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:14 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:18 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:23 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:31 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 14:32:31 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:36 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 14:32:37 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 14:32:43 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 14:32:43 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:32:50 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:34:35 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:35:02 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:35:48 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:38:13 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:44:25 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:46:17 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:48:58 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:53:39 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:54:08 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:54:48 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:54:56 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:55:44 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:56:22 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 14:57:22 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:57:30 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 14:58:00 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:42:33 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:42:47 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:44:08 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 23:44:16 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:44:25 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:44:45 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:44:51 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:44:56 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:45:04 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:45:12 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 23:45:13 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:45:22 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 23:45:22 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:45:32 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 23:45:33 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:45:45 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:50:57 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 23:51:04 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:51:11 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:51:24 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:51:30 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:51:39 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:51:48 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:51:56 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 23:51:56 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:52:06 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 23:52:07 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:52:16 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 23:52:16 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:52:34 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:55:34 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 23:55:40 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:56:13 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:17 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:20 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:25 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:31 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 23:56:32 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:38 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 23:56:38 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:56:45 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 23:56:45 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:56:53 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:57:47 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-16 23:58:55 INFO  SignUpPageTest:23 - *** Starting test cases execution  ****
+  2022-08-16 23:59:01 INFO  ProfilePageTest:25 - *** Starting test cases execution  ****
+  2022-08-16 23:59:12 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:16 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:23 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:29 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:40 INFO  LoginPageTest:69 - login successful with username: ahsankumar22@gmail.com
+  2022-08-16 23:59:40 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:48 INFO  LoginPageTest:69 - login successful with username: aamirreza156@gmail.com
+  2022-08-16 23:59:49 INFO  LoginPageTest:35 - *** Starting test cases execution  ****
+  2022-08-16 23:59:56 INFO  LoginPageTest:69 - login successful with username: jayshah11@gmail.com
+  2022-08-16 23:59:56 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  2022-08-17 00:00:09 INFO  HomePageTest:29 - *** Starting test cases execution  ****
+  
